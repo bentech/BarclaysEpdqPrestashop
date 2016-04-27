@@ -18,3 +18,5 @@ cpi_passphrase is hard coded in validation.php
    Authors:
      * Richard Hall (richardhall)
      * Ben Swanson (bentech)
+
+I am not developing this as moving away to different payment system. Not currently recommended for use in Production.
