@@ -5,7 +5,16 @@ This has been edited to support Barclays later standard.
 
 This was done as a temporary solution and isn't completely finished.
 
-cpi_passphrase is hard coded in validation.php
+cpi_passphrase is hard coded in validation.php (SHA-OUT pass phrase)
+
+ePDQ CPI Passphrase in configuration web interface is (SHA-IN pass phrase)
+
+
+Direct HTTP server-to-server request
+ Always online
+ accepted & cancelled
+	http://<your site>/products/modules/epdqcpi/validation.php
+ Post
 
 
    Copyright:
